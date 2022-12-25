@@ -3,7 +3,17 @@ entries:
   proj:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-25T20:30:39.366660181+02:00"
+    created: "2022-12-25T20:36:18.638254095+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 9bfba7e5b650f74c3bbcea96051f0f7c633ec655730db49f7b4f3fc0e17f24f5
+    name: proj
+    type: application
+    urls:
+    - https://github.com/SaharRubinovich/helm-repo/proj-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-25T20:36:18.638760083+02:00"
     description: A Helm chart for Kubernetes
     digest: 9bfba7e5b650f74c3bbcea96051f0f7c633ec655730db49f7b4f3fc0e17f24f5
     name: proj
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/SaharRubinovich/helm-repo/charts/proj-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-25T20:30:39.365848878+02:00"
+generated: "2022-12-25T20:36:18.63763104+02:00"
